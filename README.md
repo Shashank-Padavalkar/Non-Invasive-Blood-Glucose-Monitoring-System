@@ -71,6 +71,12 @@ The system allows users to place a finger between an IR emitter and photodiode. 
 ![Final Working Prototype](final_prototype.png)
 
 ---
+## Android App
+
+
+![Android app](android_app.png)
+
+---
 
 ## Achievements
 
