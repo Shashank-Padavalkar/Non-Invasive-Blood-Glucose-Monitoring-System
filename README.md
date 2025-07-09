@@ -12,7 +12,6 @@ The system allows users to place a finger between an IR emitter and photodiode. 
 
 ## Block Diagram
 
-*Upload your system block diagram image below:*
 
 ![System Block Diagram](block_diagram.png)
 
@@ -68,7 +67,6 @@ The system allows users to place a finger between an IR emitter and photodiode. 
 
 ## Final Prototype
 
-*Upload your final prototype image below:*
 
 ![Final Working Prototype](final_prototype.png)
 
